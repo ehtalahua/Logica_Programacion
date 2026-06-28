@@ -1,6 +1,6 @@
-# 🏓 Atari Pong — Recreación en Python con Pygame
+#  Atari Pong — Recreación en Python con Pygame
 
-## 📌 Nombre del Proyecto
+## Nombre del Proyecto
 
 **Atari Pong — Recreación Clásica en Python**
 
@@ -8,7 +8,7 @@ Versión funcional del mítico juego Pong de Atari (1972), desarrollada en Pytho
 
 ---
 
-## 👥 Integrantes
+## Integrantes
 
 | Nombre completo | Rol |
 |---|---|
@@ -18,7 +18,7 @@ Versión funcional del mítico juego Pong de Atari (1972), desarrollada en Pytho
 
 ---
 
-## 🎯 Objetivo del Sistema
+##  Objetivo del Sistema
 
 Recrear el juego clásico Pong de forma funcional en Python, aplicando los fundamentos de programación con Pygame: manejo de eventos, detección de colisiones, movimiento de objetos, renderizado en pantalla y control del bucle de juego a 60 FPS.
 
@@ -32,7 +32,7 @@ Recrear el juego clásico Pong de forma funcional en Python, aplicando los funda
 
 ---
 
-## ⚙️ Descripción de Funcionalidades
+##  Descripción de Funcionalidades
 
 | Funcionalidad | Descripción |
 |---|---|
@@ -61,7 +61,7 @@ sys     →  Salida del programa al cerrar la ventana
 
 ---
 
-## 🏗️ Diagrama de Arquitectura
+##  Diagrama de Arquitectura
 
 ```
 ┌──────────────────────────────────────────┐
@@ -107,8 +107,7 @@ sys     →  Salida del programa al cerrar la ventana
 
 ---
 
-## 🔄 Diagrama de Flujo
-
+## Diagrama de Flujo
 ```
         [Inicio]
             │
@@ -159,7 +158,7 @@ sys     →  Salida del programa al cerrar la ventana
 
 ---
 
-## 🚀 Instalación y Ejecución
+## Instalación y Ejecución
 
 ### Requisitos
 
@@ -197,7 +196,7 @@ atari-pong/
 
 ---
 
-## 🔮 Mejoras Futuras — Escalabilidad
+##  Mejoras Futuras — Escalabilidad
 
 El código actual es un punto de partida sólido. A continuación se listan las mejoras que se pueden implementar de forma progresiva:
 
@@ -211,7 +210,7 @@ El código actual es un punto de partida sólido. A continuación se listan las 
 | **Pausa** | Permitir pausar el juego con `ESC` |
 | **Sonidos** | Usar `pygame.mixer` para efectos de rebote y punto |
 
-### 🔧 Mediano plazo (refactorización)
+###  Mediano plazo (refactorización)
 
 | Mejora | Descripción |
 |---|---|
@@ -221,7 +220,7 @@ El código actual es un punto de partida sólido. A continuación se listan las 
 | **Modo 2 jugadores** | Segundo jugador con teclas de flechas `↑` / `↓` |
 | **Historial de partidas** | Guardar resultados en un archivo `scores.json` |
 
-### 🚀 Largo plazo (funcionalidades avanzadas)
+###  Largo plazo (funcionalidades avanzadas)
 
 | Mejora | Descripción |
 |---|---|
@@ -233,7 +232,7 @@ El código actual es un punto de partida sólido. A continuación se listan las 
 
 ---
 
-## 📅 Fecha
+##  Fecha
 
 | | |
 |---|---|
@@ -243,7 +242,7 @@ El código actual es un punto de partida sólido. A continuación se listan las 
 
 ---
 
-## 📄 Licencia
+##  Licencia
 
 Este proyecto está bajo la Licencia MIT — libre para usar, modificar y distribuir con atribución.
 
