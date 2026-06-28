@@ -12,9 +12,8 @@ Versión funcional del mítico juego Pong de Atari (1972), desarrollada en Pytho
 
 | Nombre completo | Rol |
 |---|---|
-| _(Tu nombre aquí)_ | Desarrollador Principal |
-| _(Integrante 2)_ | _(Rol)_ |
-| _(Integrante 3)_ | _(Rol)_ |
+| _(TALAHUA ERICK)_ | Desarrollador Principal |
+
 
 ---
 
